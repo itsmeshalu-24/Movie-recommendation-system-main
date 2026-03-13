@@ -133,11 +133,11 @@ See the LICENSE file for full details.
 
 ---
 👨‍💻 Author
-**Sravya Togarla**
+**Shalu Singh**
 
 Edureka Data Science with SQL Learner
 
-Connect on LinkedIn www.linkedin.com/in/sravya-togarla
+Connect on LinkedIn https://www.linkedin.com/in/shalu-singh-0561162b2/
 
 
 ---
