@@ -90,7 +90,7 @@ These plots are generated using **Plotly** and are fully interactive in the note
 ## 🏃‍♂️ Getting Started
 
 1️⃣ Clone this repository:
-git clone https://github.com/Sravyatogarla/Movie-recommendation-system.git
+git clone https://github.com/itsmeshalu-24/Movie-recommendation-system-main
 
 ---
 ## 📚 Dataset Description
